@@ -11,6 +11,7 @@ public class CarbonFoodPrint
 		map.put( "Beef", 6.61f );
 		map.put( "Milk", 0.72f );
 		map.put( "Rice", 0.16f );
+		map.put( "Potatoes", 0.03f );
 	}
 
 	static void print()
